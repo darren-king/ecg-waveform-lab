@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Preserve publisher checksums across operating systems and Git configurations.
+data/sample/** -text
+data/LICENSE-CC-BY-4.0.txt -text whitespace=cr-at-eol
